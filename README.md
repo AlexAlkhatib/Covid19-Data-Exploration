@@ -1,4 +1,4 @@
-# **Covid-19 Data Exploration — Analyse SQL avancée**
+# 🦠 **Covid-19 Data Exploration — Analyse SQL avancée**
 
 Ce projet est une exploration approfondie des données Covid-19 grâce à SQL.
 Il met en œuvre des techniques avancées pour analyser les contaminations, les décès, les taux de vaccination et comparer les impacts entre pays et continents.
